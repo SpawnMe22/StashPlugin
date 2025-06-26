@@ -1,0 +1,11 @@
+id: elo-duel
+name: Elo Duel
+metadata:
+  description: Head-to-head performer ranking with Elo scores
+version: 0.1.0
+date: "2025-06-26 19:00:00"
+requires: []
+source_repository: https://example.com/elo-duel/index.yml
+files:
+  - elo-duel.js
+  - elo-duel.yml
