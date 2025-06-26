@@ -1,8 +1,8 @@
 name: Elo Duel
+description: Head-to-head performer ranking with Elo scores
 version: 0.1.0
-description: Head-to-head performer ranking using Elo scores
-requires:
-  - CommunityScriptsUILibrary
 ui:
+  requires:
+    - CommunityScriptsUILibrary
   javascript:
     - elo-duel.js
