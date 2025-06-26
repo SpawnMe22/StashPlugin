@@ -1,0 +1,9 @@
+# Community Script manifest for Stash 0.28.x
+name: Elo Duel
+version: 0.1.0
+description: Head-to-head performer ranking using Elo scores
+requires:
+  - CommunityScriptsUILibrary           # makes csLib available
+ui:
+  javascript:
+    - elo-duel.js                       # relative to this YAML’s location
